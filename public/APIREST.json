@@ -1,0 +1,654 @@
+{
+  "equipos": [
+    {
+      "id": "001",
+      "nombre": "Doble Planta Mech MatxineGum",
+      "descripcion": "Equipo doble planta con mech",
+      "rangoCopas": "1800 - 2000",
+      "videos": [
+        {
+          "link": "https://www.youtube.com/watch?v=WgbyrbPA7SE",
+          "desc": "Video de MatxineGum"
+        }
+      ],
+      "axies": {
+        "frontline": {
+          "criteria": {
+            "classes": ["Plant"],
+            "parts": [
+              "mouth-serious",
+              "mouth-humorless",
+              "horn-leaf-bug",
+              "back-pumpkin",
+              "tail-hot-butt"
+            ],
+            "hp": null,
+            "speed": null,
+            "skill": null,
+            "morale": null,
+            "breedCount": null,
+            "pureness": [5],
+            "numMystic": [],
+            "title": null,
+            "region": null,
+            "stages": [3, 4]
+          }
+        },
+        "midline": {
+          "criteria": {
+            "classes": ["Plant"],
+            "parts": [
+              "mouth-mosquito",
+              "horn-cactus",
+              "back-bidens",
+              "tail-hot-butt"
+            ],
+            "hp": null,
+            "speed": null,
+            "skill": null,
+            "morale": null,
+            "breedCount": null,
+            "pureness": [5],
+            "numMystic": [],
+            "title": null,
+            "region": null,
+            "stages": [3, 4]
+          }
+        },
+        "backline": {
+          "criteria": {
+            "classes": ["Mech"],
+            "parts": [
+              "mouth-nut-cracker",
+              "horn-dual-blade",
+              "back-risky-beast",
+              "tail-nut-cracker"
+            ],
+            "hp": 31,
+            "speed": 47,
+            "skill": 43,
+            "morale": 43,
+            "breedCount": null,
+            "pureness": [],
+            "numMystic": [],
+            "title": null,
+            "region": null,
+            "stages": [3, 4]
+          }
+        }
+      }
+    },
+    {
+      "id": "002",
+      "nombre": "Planta Dusk Mech sarraf",
+      "descripcion": "Equipo meta de sarraf temporada 19",
+      "rangoCopas": "800 - 1100",
+      "videos": [
+        {
+          "link": "https://www.youtube.com/watch?v=Va3X0mz3mkc",
+          "desc": "Video de Sarraf"
+        }
+      ],
+      "axies": {
+        "frontline": {
+          "criteria": {
+            "classes": ["Plant"],
+            "parts": [
+              "mouth-pincer",
+              "horn-parasite",
+              "back-pumpkin",
+              "tail-yam"
+            ],
+            "hp": 57,
+            "speed": 32,
+            "skill": null,
+            "morale": null,
+            "breedCount": null,
+            "pureness": [],
+            "numMystic": [],
+            "title": null,
+            "region": null,
+            "stages": [3, 4]
+          }
+        },
+        "midline": {
+          "criteria": {
+            "classes": ["Dusk"],
+            "parts": [
+              "mouth-tiny-turtle",
+              "horn-wing-horn",
+              "back-bone-sail",
+              "tail-grass-snake"
+            ],
+            "hp": 54,
+            "speed": 51,
+            "skill": null,
+            "morale": 32,
+            "breedCount": null,
+            "pureness": [],
+            "numMystic": [],
+            "title": null,
+            "region": null,
+            "stages": [3, 4]
+          }
+        },
+        "backline": {
+          "criteria": {
+            "classes": ["Mech"],
+            "parts": [
+              "mouth-toothless-bite",
+              "horn-eggshell",
+              "back-furball",
+              "tail-twin-tail"
+            ],
+            "hp": 36,
+            "speed": 50,
+            "skill": 43,
+            "morale": 35,
+            "breedCount": null,
+            "pureness": [],
+            "numMystic": [],
+            "title": null,
+            "region": null,
+            "stages": [3, 4]
+          }
+        }
+      }
+    },
+    {
+      "id": "003",
+      "nombre": "Planta Pez Dusk Sarraf",
+      "descripcion": "Equipo de video de Sarraf",
+      "rangoCopas": "800 - 1100",
+      "videos": [
+        {
+          "link": "https://www.youtube.com/watch?v=5zc3XCboug8",
+          "desc": "Video de Sarraf"
+        }
+      ],
+      "axies": {
+        "frontline": {
+          "criteria": {
+            "classes": ["Plant"],
+            "parts": [
+              "mouth-zigzag",
+              "mouth-rudolph",
+              "horn-leaf-bug",
+              "back-pumpkin",
+              "tail-hatsune"
+            ],
+            "hp": null,
+            "speed": null,
+            "skill": null,
+            "morale": null,
+            "breedCount": null,
+            "pureness": [5, 6],
+            "numMystic": [],
+            "title": null,
+            "region": null,
+            "stages": [3, 4]
+          }
+        },
+        "midline": {
+          "criteria": {
+            "classes": ["Dusk"],
+            "parts": [
+              "mouth-tiny-turtle",
+              "mouth-tiny-carrot",
+              "mouth-dango",
+              "horn-incisor",
+              "back-tri-spikes",
+              "tail-thorny-caterpillar",
+              "tail-thorny-catterpilar"
+            ],
+            "hp": [54, 61],
+            "speed": [48, 61],
+            "skill": null,
+            "morale": [35, 61],
+            "breedCount": null,
+            "pureness": [],
+            "numMystic": [],
+            "title": null,
+            "region": null,
+            "stages": [3, 4]
+          }
+        },
+        "backline": {
+          "criteria": {
+            "classes": ["Aquatic"],
+            "parts": [
+              "mouth-risky-fish",
+              "horn-shoal-star",
+              "horn-5h04l-5t4r",
+              "back-ronin",
+              "back-hasagi",
+              "tail-nimo"
+            ],
+            "hp": null,
+            "speed": null,
+            "skill": null,
+            "morale": null,
+            "breedCount": null,
+            "pureness": [5, 6],
+            "numMystic": [],
+            "title": null,
+            "region": null,
+            "stages": [3, 4]
+          }
+        }
+      }
+    },
+    {
+      "id": "004",
+      "nombre": "Planta Bestia Reptile Reflejo MatxineGum",
+      "descripcion": "Equipo de MatxineGum reptil full reflejo de daño",
+      "rangoCopas": "2200",
+      "videos": [
+        {
+          "link": "https://www.youtube.com/watch?v=tWD7wB88U2U",
+          "desc": "Video de MatxineGum"
+        }
+      ],
+      "axies": {
+        "frontline": {
+          "criteria": {
+            "classes": ["Plant"],
+            "parts": [
+              "mouth-serious",
+              "mouth-humorless",
+              "horn-leaf-bug",
+              "back-green-thorns",
+              "tail-hot-butt"
+            ],
+            "hp": [59, 61],
+            "speed": [32, 61],
+            "skill": [31, 61],
+            "morale": [42, 61],
+            "breedCount": null,
+            "pureness": [],
+            "numMystic": [],
+            "title": null,
+            "region": null,
+            "stages": [3, 4]
+          }
+        },
+        "midline": {
+          "criteria": {
+            "classes": ["Beast"],
+            "parts": [
+              "mouth-axie-kiss",
+              "horn-dual-blade",
+              "back-hero",
+              "tail-hare"
+            ],
+            "hp": [34, 61],
+            "speed": [41, 61],
+            "skill": null,
+            "morale": null,
+            "breedCount": null,
+            "pureness": [],
+            "numMystic": [],
+            "title": null,
+            "region": null,
+            "stages": [3, 4]
+          }
+        },
+        "backline": {
+          "criteria": {
+            "classes": ["Reptile"],
+            "parts": [
+              "mouth-tiny-turtle",
+              "mouth-tiny-carrot",
+              "mouth-dango",
+              "horn-scaly-spoon",
+              "back-indian-star",
+              "back-1nd14n-5t4r",
+              "back-frozen-bucket",
+              "tail-tiny-dino",
+              "tail-fir-trunk"
+            ],
+            "hp": null,
+            "speed": null,
+            "skill": null,
+            "morale": null,
+            "breedCount": null,
+            "pureness": [6],
+            "numMystic": [],
+            "title": null,
+            "region": null,
+            "stages": [3, 4]
+          }
+        }
+      }
+    },
+    {
+      "id": "005",
+      "nombre": "Full veneno OverJean Axie",
+      "descripcion": "Equipo full veneno del video de OverJean Axie",
+      "rangoCopas": "2200",
+      "videos": [
+        {
+          "link": "https://www.youtube.com/watch?v=IEH15gFoAU4",
+          "desc": "Video de OverJean Axie"
+        }
+      ],
+      "axies": {
+        "frontline": {
+          "criteria": {
+            "classes": [],
+            "parts": [
+              "mouth-pincer",
+              "horn-leaf-bug",
+              "back-pumpkin",
+              "tail-yam"
+            ],
+            "hp": null,
+            "speed": null,
+            "skill": null,
+            "morale": null,
+            "breedCount": null,
+            "pureness": [4, 5, 6],
+            "numMystic": [],
+            "title": null,
+            "region": null,
+            "stages": [3, 4]
+          }
+        },
+        "midline": {
+          "criteria": {
+            "classes": ["Reptile"],
+            "parts": [
+              "mouth-toothless-bite",
+              "mouth-venom-bite",
+              "horn-cerastes",
+              "horn-vector",
+              "back-garish-worm",
+              "back-candy-canes",
+              "tail-grass-snake"
+            ],
+            "hp": [55, 61],
+            "speed": [40, 61],
+            "skill": null,
+            "morale": null,
+            "breedCount": null,
+            "pureness": [],
+            "numMystic": [],
+            "title": null,
+            "region": null,
+            "stages": [3, 4]
+          }
+        },
+        "backline": {
+          "criteria": {
+            "classes": ["Dusk"],
+            "parts": [
+              "mouth-tiny-turtle",
+              "mouth-tiny-carrot",
+              "mouth-dango",
+              "horn-wing-horn",
+              "back-garish-worm",
+              "back-candy-canes",
+              "tail-grass-snake"
+            ],
+            "hp": [50, 61],
+            "speed": [50, 61],
+            "skill": null,
+            "morale": null,
+            "breedCount": null,
+            "pureness": [],
+            "numMystic": [],
+            "title": null,
+            "region": null,
+            "stages": [3, 4]
+          }
+        }
+      }
+    },
+    {
+      "id": "006",
+      "nombre": "Doble Pez Oranda Sarraf",
+      "descripcion": "Equipo doble pez oranda con planta de Sarraf",
+      "rangoCopas": "2200",
+      "videos": [
+        {
+          "link": "https://www.youtube.com/watch?v=d3coegdSu6E",
+          "desc": "Video de Sarraf"
+        }
+      ],
+      "axies": {
+        "frontline": {
+          "criteria": {
+            "classes": ["Plant"],
+            "parts": [
+              "mouth-serious",
+              "mouth-humorless",
+              "horn-leaf-bug",
+              "back-pumpkin",
+              "tail-hot-butt"
+            ],
+            "hp": null,
+            "speed": null,
+            "skill": null,
+            "morale": null,
+            "breedCount": null,
+            "pureness": [5, 6],
+            "numMystic": [],
+            "title": null,
+            "region": null,
+            "stages": [3, 4]
+          }
+        },
+        "midline": {
+          "criteria": {
+            "classes": ["Aquatic"],
+            "parts": [
+              "mouth-risky-fish",
+              "horn-oranda",
+              "back-goldfish",
+              "tail-nimo"
+            ],
+            "hp": null,
+            "speed": null,
+            "skill": null,
+            "morale": null,
+            "breedCount": null,
+            "pureness": [6],
+            "numMystic": [],
+            "title": null,
+            "region": null,
+            "stages": [3, 4]
+          }
+        },
+        "backline": {
+          "criteria": {
+            "classes": ["Aquatic"],
+            "parts": [
+              "mouth-risky-fish",
+              "horn-oranda",
+              "back-goldfish",
+              "tail-koi",
+              "tail-kuro-koi",
+              "tail-koinobori"
+            ],
+            "hp": null,
+            "speed": null,
+            "skill": null,
+            "morale": null,
+            "breedCount": null,
+            "pureness": [6],
+            "numMystic": [],
+            "title": null,
+            "region": null,
+            "stages": [3, 4]
+          }
+        }
+      }
+    },
+    {
+      "id": "007",
+      "nombre": "Doble Anemona Sarraf",
+      "descripcion": "Equipo doble pez doble anemona y pajaro de Sarraf",
+      "rangoCopas": "2200",
+      "videos": [
+        {
+          "link": "https://www.youtube.com/watch?v=eW--RlsibI8",
+          "desc": "Video de Sarraf"
+        }
+      ],
+      "axies": {
+        "frontline": {
+          "criteria": {
+            "classes": ["Aquatic"],
+            "parts": [
+              "mouth-lam",
+              "mouth-lam-handsome",
+              "horn-anemone",
+              "back-anemone",
+              "tail-nimo"
+            ],
+            "hp": null,
+            "speed": null,
+            "skill": null,
+            "morale": null,
+            "breedCount": null,
+            "pureness": [6],
+            "numMystic": [],
+            "title": null,
+            "region": null,
+            "stages": [3, 4]
+          }
+        },
+        "midline": {
+          "criteria": {
+            "classes": ["Aquatic"],
+            "parts": [
+              "mouth-lam",
+              "mouth-lam-handsome",
+              "horn-anemone",
+              "back-anemone",
+              "tail-nimo"
+            ],
+            "hp": null,
+            "speed": null,
+            "skill": null,
+            "morale": null,
+            "breedCount": null,
+            "pureness": [6],
+            "numMystic": [],
+            "title": null,
+            "region": null,
+            "stages": [3, 4]
+          }
+        },
+        "backline": {
+          "criteria": {
+            "classes": ["Bird"],
+            "parts": [
+              "mouth-little-owl",
+              "horn-eggshell",
+              "horn-golden-shell",
+              "back-pigeon-post",
+              "tail-hare"
+            ],
+            "hp": null,
+            "speed": null,
+            "skill": null,
+            "morale": null,
+            "breedCount": null,
+            "pureness": [5, 6],
+            "numMystic": [],
+            "title": null,
+            "region": null,
+            "stages": [3, 4]
+          }
+        }
+      }
+    },
+    {
+      "id": "008",
+      "nombre": "Dusk Backdoor + Termi Sarraf",
+      "descripcion": "Equipo planta, dusk con backdoor y terminaitor Sarraf",
+      "rangoCopas": "2200",
+      "videos": [
+        {
+          "link": "https://www.youtube.com/watch?v=_vPNg-of2yY",
+          "desc": "Video de Sarraf"
+        }
+      ],
+      "axies": {
+        "frontline": {
+          "criteria": {
+            "classes": ["Plant"],
+            "parts": [
+              "mouth-serious",
+              "mouth-humorless",
+              "horn-leaf-bug",
+              "back-pumpkin",
+              "tail-yam"
+            ],
+            "hp": null,
+            "speed": null,
+            "skill": null,
+            "morale": null,
+            "breedCount": null,
+            "pureness": [5, 6],
+            "numMystic": [],
+            "title": null,
+            "region": null,
+            "stages": [3, 4]
+          }
+        },
+        "midline": {
+          "criteria": {
+            "classes": ["Dusk"],
+            "parts": [
+              "mouth-tiny-turtle",
+              "mouth-tiny-carrot",
+              "mouth-dango",
+              "horn-incisor",
+              "back-tri-spikes",
+              "tail-thorny-caterpillar",
+              "tail-thorny-catterpilar"
+            ],
+            "hp": [57, 61],
+            "speed": [46, 61],
+            "skill": null,
+            "morale": null,
+            "breedCount": null,
+            "pureness": [],
+            "numMystic": [],
+            "title": null,
+            "region": null,
+            "stages": [3, 4]
+          }
+        },
+        "backline": {
+          "criteria": {
+            "classes": ["Dusk"],
+            "parts": [
+              "mouth-tiny-turtle",
+              "mouth-tiny-carrot",
+              "mouth-dango",
+              "horn-lagging",
+              "horn-laggingggggg",
+              "back-snail-shell",
+              "back-starry-shell",
+              "tail-thorny-caterpillar",
+              "tail-thorny-catterpilar"
+            ],
+            "hp": [51, 61],
+            "speed": [46, 61],
+            "skill": null,
+            "morale": null,
+            "breedCount": null,
+            "pureness": [],
+            "numMystic": [],
+            "title": null,
+            "region": null,
+            "stages": [3, 4]
+          }
+        }
+      }
+    }
+  ]
+}

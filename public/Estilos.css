@@ -1,0 +1,75 @@
+#titular{
+  background-color: #92c7e6;
+  margin: auto;
+  text-align: center;
+}
+
+#DetallesTeam {
+  border: #404346 2px solid;
+  height: fit-content;
+  width: fit-content;
+  background-color: #214866;
+}
+#frontAxie {
+  border: #404346 2px solid;
+  padding: 10px;
+  height: fit-content;
+  width: fit-content;
+  max-width: 70%;
+  align-items: center;
+  background-color: #7899B3;
+  align-self: center;
+}
+#tarjetaAxie {
+  border: #214866 1px solid;
+  padding: 0px;
+  max-width: 200px;
+  background-color: #9AC5E6;
+}
+
+#centrado{
+  margin: auto;
+  text-align: center;
+  font-size: 1vw;
+  text-decoration: none;
+}
+#DivResultado{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #445766;
+}
+#textCentrado{
+  margin: auto;
+  text-align: center;
+  font-size: 3vw;
+  color:#9AC5E6;
+}
+#textCentP{
+  margin: auto;
+  text-align: center;
+  font-size: 1.5vw;
+  color:#9AC5E6;
+  align-self: center;
+}
+#precioT{
+  margin: auto;
+  text-align: center;
+  font-size: 2vw;
+  color:hsl(0, 87%, 54%);
+}
+#tituloAxie{
+  margin: auto;
+  text-align: center;
+  font-size: 2vw;
+  color:#9AC5E6;
+}
+#precioCU{
+  margin: auto;
+  text-align: center;
+  font-size: 1.5vw;
+  color:#9AC5E6;
+}
+#tarjetaAxie:hover {
+  background-color: #c8e0f3;
+}
